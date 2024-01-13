@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Hello and Welcome to EazyBank Cards Related QA APIs"
+  message: "Hello and Welcome Updated to EazyBank Cards Related QA APIs"
   contactDetails:
     name: "Abhijeet Singh"
     email: "abhi@gmail.com"
