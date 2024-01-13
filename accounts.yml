@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank Account Related APIs"
+  message: "Welcome Updated to EazyBank Account Related APIs"
   contactDetails:
     name: "Abhijeet Singh"
     email: "abhi@gmail.com"
