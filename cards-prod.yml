@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Cards Related PROD APIs"
+  message: "Hi, Welcome to EazyBank Cards Related PROD APIs"
   contactDetails:
     name: "Abhijeet Singh"
     email: "abhi@gmail.com"
